@@ -1,0 +1,4 @@
+3. 服务端的简单验证: 使用 Struts2 的 validation 验证框架完成.
+2. 使用 javascript 和 jQuery 对 loginName 和 password 完成验证.
+
+1. 搭建 SSH 的开发环境

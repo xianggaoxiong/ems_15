@@ -1,0 +1,9 @@
+/applicationContext.xml
+/com/
+/db.properties
+/ehcache.xml
+/hibernate.cfg.xml
+/i18n.properties
+/struts.xml
+/template/
+/xwork-conversion.properties
